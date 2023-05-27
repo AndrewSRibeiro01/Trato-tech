@@ -69,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Trato-tech
+
+
+Entenda o que é um middleware e o que impacta no universo Redux
+
+Veja na prática o Redux Thunk funcionando e como facilita chamadas assíncronas
+
+Pratique criar middlewares para inúmeras finalidades
+
+Utilize actions de reducers de fora dentro de outro reducer
+
+Deixe o seu código muito mais independente e fácil de entender e manusear
